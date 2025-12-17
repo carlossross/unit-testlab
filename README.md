@@ -36,7 +36,7 @@ The goal is to write tests that are:
 
 - Angular
 - TypeScript
-- Jasmine/Karma or Jest (depending on configuration)
+- Jasmine/Karma
 
 ## ▶️ Run tests
 
